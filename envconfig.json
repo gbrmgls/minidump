@@ -1,0 +1,11 @@
+{
+  "DB_TYPE": "POUCHDB",
+  "POUCHDB": {
+    "DB_NAME": "minidump",
+    "REMOTE": {
+      "HOST": "http://localhost:5984/minidump",
+      "USERNAME": "admin",
+      "PASSWORD": "admin"
+    }
+  }
+}
